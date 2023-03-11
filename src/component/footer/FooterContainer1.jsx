@@ -5,7 +5,7 @@ export default function FooterContainer1() {
    <>
      <div className='footer-container mt-4'>
            <div className='footer-box mx-4 px-3 '>
-              <h1 className='footer-ishop'>iSHOP</h1>
+              <h1 className='footer-ishop'>My Project</h1>
               <p className='footer-para mt-4'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.Since the 1500s, when an unknown printer.</p>
            </div>
            <div className='footer-box mx-4 px-3 '>
